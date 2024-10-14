@@ -1,0 +1,22 @@
+# Node.js 관련
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# TypeScript 컴파일 결과물
+dist/
+build/
+
+# 환경 설정 파일 (개인 정보나 환경 설정 관련)
+.env
+.env.local
+.env.*.local
+
+# 로그 파일
+*.log
+
+# MacOS 관련
+.DS_Store
+
+# TypeScript 관련
+*.tsbuildinfo
